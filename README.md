@@ -1,4 +1,4 @@
-📦 sort-test
+## 📦 sort-test
 A simple TypeScript utility that merges three arrays of numbers and returns a single sorted array in ascending order.
 
 🛠 Features
